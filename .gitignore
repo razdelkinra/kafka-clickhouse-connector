@@ -1,0 +1,11 @@
+*target/
+*.idea/
+*.run/
+*.iml
+*.log
+logs/
+misc/
+node_modules/
+*.tgz
+.vscode
+/out/
